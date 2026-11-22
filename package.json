@@ -1,0 +1,9 @@
+{
+  "name": "vercel-wa-sender",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "formidable": "^3.5.1"
+  }
+}
